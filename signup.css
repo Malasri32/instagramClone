@@ -1,0 +1,67 @@
+.container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        .login {
+            border: 1px solid lightgray;
+            background-color: #fff;
+            padding: 30px;
+            width: 350px;
+            box-shadow: 0px 0px 2px lightgrey;
+        }
+
+        .b-box {
+            border: 1px solid lightgray;
+            background-color: #fff;
+            padding: 20px;
+            width: 350px;
+        }
+
+
+        .buttonn {
+            width: 100%;
+            height: fit-content;
+            padding: 9px;
+            background-color: #479bf4;
+            border: none;
+            color: #fff;
+            border-radius: 7px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .applink {
+            border: none;
+            cursor: pointer;
+
+        }
+        .navbar li{
+            list-style: none;
+            display: inline;
+            padding: 5px;
+            font-size: 13px;
+            color:  rgb(95, 94, 94);
+            font-family: 'Courier New', Courier, monospace;
+            cursor: pointer;
+        } 
+        .navbara li{
+            color:  rgb(95, 94, 94);
+            list-style: none;
+            display: inline;
+            padding: 5px;
+            font-size: 13px;
+            cursor: pointer;
+        } 
+        #sel1{
+            border-style: none;
+        }
+        
+        a:link{
+            text-decoration: none;
+        }
+        .or{
+            color: rgb(109, 107, 107);
+        }

@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    border: 1px solid lightgray;
+    background-color: #fff;
+    padding: 30px;
+    width: 350px;
+}
+
+.b-box {
+    border: 1px solid lightgray;
+    background-color: #fff;
+    padding: 20px;
+    width: 350px;
+}
+
+
+.buttonn {
+    width: 100%;
+    padding: 10px;
+    background-color: #479bf4;
+    border: none;
+    color: #fff;
+    border-radius: 7px;
+    cursor: auto;
+    transition: background-color 0.3s ease;
+}
+
+.applink {
+    border: none;
+    cursor: pointer;
+
+}
+.navbar li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    font-size: 13px;
+    color: rgb(139, 136, 136);
+    font-family: 'Courier New', Courier, monospace;
+} 
+.navbara li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    font-size: 13px;
+} 
+#sel1{
+    border-style: none;
+}
+a:link{
+    text-decoration: none;
+}
+.or{
+    color: rgb(109, 107, 107);
+}
